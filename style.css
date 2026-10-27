@@ -1,0 +1,36 @@
+/* This designs the whole background page */
+body {
+    background-color: #f0f4f8;
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+/* This designs your main title */
+h1 {
+    color: #0a000d;
+    font-size: 36px;
+    border-bottom: 2px solid #FFD700;
+}
+
+/* This designs your paragraph text */
+p {
+    color: #4a5568;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+tinyType {
+  color: #1a0809;
+  font-size: 2px;
+}
+
+button {
+  color: #ffd700;
+  font-size: 18px;
+  background-color: #0a000d
+}
+
+img {
+  width: 200px;
+  height: 210px;
+}
